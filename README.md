@@ -1,8 +1,8 @@
 ihcux-lista-01
 
-samuel franco
-eduarda cordeiro
-natali fialho
+samuel franco,
+eduarda cordeiro,
+natali fialho,
 ana luiza 
 
 ## 📸 Evidência de Execução
