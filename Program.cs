@@ -1,7 +1,7 @@
 ﻿/*
  * DISCIPLINA: Interação Humano Computador e UX
  * PROFESSOR: Daniel Henrique Matos de Paiva
- * ALUNO: [Seu Nome Aqui]
+ * ALUNO: NÁTALI FIALHO SOARES
  * * APLICAÇÃO DAS HEURÍSTICAS DE NIELSEN:
  * 1. Heurística #1 (Visibilidade do Status): Implementada no cabeçalho de cada etapa [Passo X de 3].
  * 2. Heurística #3 (Controle e Liberdade): Uso dos comandos "voltar" para retornar à etapa anterior e "cancelar" para reiniciar.
